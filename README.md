@@ -23,6 +23,21 @@ I'm also involved in the launch of the SelfieDreams API as the engineering lead.
 
 I have extensive interest in these topics and projects and I welcome any inquiries or opportunities for collaboration from fellow AI practitioners. Please feel free to contact me if you share the same interest 👯
 
+I develop with:
+Python JavaScript HTML5 CSS3 PyTorch
+
+NumPy Pandas scikit-learn SciPy Plotly
+
+TensorFlow OpenCV NVIDIA
+
+Jupyter Notebook Visual Studio Code Git 
+
+Airflow Docker Kubernetes Anaconda FastAPI Flask 
+
+Neo4J Postgres Apache Spark Hadoop BigQuery
+
+Azure Google Cloud GitHub GitLab
+
 <!--
 **egerdm-ai/egerdm-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
